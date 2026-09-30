@@ -12,26 +12,30 @@
 
 - 👨‍💻 As frontend develorper and current computer engineering student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with UI/UX Application Development, modern frontend frameworks, and building responsive web interfaces."
-- 
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
-[![Languages](https://skillicons.dev/icons?i=html,css,js,ts,java,c,py)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=html,css,js,java,py,php)](https://skillicons.dev)
 
 #### 🖥️ Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap)](https://skillicons.dev)
 
 #### 📚 Libraries
 [![Libraries](https://skillicons.dev/icons?i=redux,jquery,d3)](https://skillicons.dev)
 
+#### 🗄️ Databases
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+
 #### 🔧 Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vite)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vite,docker)](https://skillicons.dev)
 
 ## 📊 Profile Statistics
 
- <div align=center>
+## 📊 Profile Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=MarcCampanya&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 <br>
 
 </div>
