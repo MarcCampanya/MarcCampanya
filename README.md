@@ -10,7 +10,7 @@
 
 ---
 
-- 👨‍💻 As frontend develorper and current computer engineering student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As frontend developer and current computer engineering student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with UI/UX Application Development, modern frontend frameworks, and building responsive web interfaces."
 ## 🛠 &nbsp;Tech Stack
 
